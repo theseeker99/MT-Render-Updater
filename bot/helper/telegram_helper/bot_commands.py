@@ -51,7 +51,7 @@ class _BotCommands:
         self.DeleteCommand = getCommand('DELETE_COMMAND', f'del{CMD_INDEX}')
         self.ShellCommand = getCommand('SHELL_COMMAND', f'shell{CMD_INDEX}')
         self.ExecHelpCommand = getCommand('EXEHELP_COMMAND', f'exechelp{CMD_INDEX}')
-        self.LeechSetCommand = getCommand('LEECHSET_COMMAND', f'uprofile8{CMD_INDEX}')
+        self.LeechSetCommand = getCommand('LEECHSET_COMMAND', f'leechset{CMD_INDEX}')
         self.SetThumbCommand = getCommand('SETTHUMB_COMMAND', f'setthumb{CMD_INDEX}')
         self.LeechCommand = getCommand('LEECH_COMMAND', f'leech{CMD_INDEX}')
         self.UnzipLeechCommand = getCommand('UNZIPLEECH_COMMAND', f'unzipleech{CMD_INDEX}')
